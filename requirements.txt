@@ -1,0 +1,11 @@
+# requirements.txt
+
+# Turtle graphics library (Standard library in Python, no need to install)
+# Mentioned for reference, no external installation needed.
+# turtle==built-in
+
+# Pygame for sound effects
+pygame==2.5.0
+
+# Optional for testing
+unittest==built-in
